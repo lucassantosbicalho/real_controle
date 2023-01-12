@@ -20,6 +20,10 @@ I didn't maintain this project anymore. Feel free to make improvements or contac
 
 ---
 
+### VBA project password: `realcontrole`
+
+---
+
 ## *Basic functions of the application*
 
 A. MENU
@@ -96,6 +100,10 @@ Não mantive mais esse projeto. Sinta-se à vontade para fazer melhorias ou entr
 
 [Assista ao vídeo](https://youtu.be/SPsAhvlN8bQ)
 
+
+---
+
+### Senha do projeto VBA: `realcontrole`
 
 ---
 
