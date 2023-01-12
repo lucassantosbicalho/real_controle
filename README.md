@@ -75,12 +75,6 @@ It is possible that *in the first initialization* of the app, an error may occur
 So, before open the app for the first time, download this DLL http://dllyes.com/mscomctl-ocx/ and install on `C:\Windows\System32`.
 
 
---------------
-
-
-# Portuguese
-
-
 -------------
 
 # _Real Controle_ (2015) VBA Aplicativo de Finanças Pessoais
